@@ -19,13 +19,9 @@ Matlab R2018a
 
 
 Downloadables used in example
-
 Dataset information: Bi-exponential - (tau1,tau2,A) Mono-exponential - (tau1)
-
 Training data folder '/train'
-
 Test data folder '/test'
-
 Jupyter Notebook containing relevant script for data upload, network training and in silico testing.
 
 This script is still under improvement
